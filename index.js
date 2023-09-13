@@ -99,3 +99,8 @@ game()
 //     console.log(txt)
 //     process.exit();
 // })
+// example how to use readline
+// rl.on('line', (txt) => {
+//     console.log(txt)
+//     process.exit();
+// })
